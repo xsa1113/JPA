@@ -1,1 +1,2 @@
 # JPA
+김영한 JPA, H2 DATABASE 사용, MAVEN 
